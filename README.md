@@ -17,3 +17,4 @@ Welcome to my 2025 Design Portfolio Repository. I'm Manthan Tandel, a graphic de
 - LinkedIn: [linkedin.com/in/manthanart](https://linkedin.com/in/manthanart)
 
 ---
+![Manthanart Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTayRq_d9bpS5SFevw5NMHrnU_F5hNrxdtF1A&s)
